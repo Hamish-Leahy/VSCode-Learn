@@ -1,5 +1,5 @@
 # VSCode-Learn
-Here are some ways I could expand on that:
+
 
 Visual Studio Code is a popular open source code editor developed by Microsoft. It provides support for development in many programming languages and includes features like debugging, intelligent code completion, and Git integration. 
 
